@@ -1,4 +1,6 @@
-### Awesome-LLM-Attribution-Watermark : All things attribution plus things on watermarking
+### Awesome-LLM-Attribution-Watermark
+> All things attribution plus things on watermarking
+> > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 #### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 ***
 ### Attribution
